@@ -1,0 +1,42 @@
+PAPY LA GRAPPE
+De la vigne au verre, Papy vous raconte le vin !
+==============================================
+
+CONTENU DU DOSSIER
+
+  index.html                  Le site complet (images, animation, polices : tout est dedans)
+  icone/papy-la-grappe.ico    L'icône pour le raccourci sur Windows
+  icone/papy-la-grappe-512.png  L'icône pour le raccourci sur Mac
+
+OUVRIR LE SITE
+
+  Double-cliquez sur « index.html ». Le site s'ouvre dans votre navigateur
+  (Chrome, Firefox, Edge ou Safari), avec ou sans connexion internet.
+
+  Gardez ce dossier entier : ne séparez pas les fichiers.
+
+
+CRÉER UN RACCOURCI SUR LE BUREAU
+
+  Sur Windows
+  1. Clic droit sur « index.html » > Envoyer vers > Bureau (créer un raccourci).
+  2. Clic droit sur le raccourci > Propriétés > Changer d'icône… > Parcourir.
+  3. Choisissez « icone/papy-la-grappe.ico », puis OK.
+  4. Renommez le raccourci « Papy la Grappe ».
+
+  Sur Mac
+  1. Faites glisser « index.html » sur le bureau en maintenant Cmd + Option
+     (cela crée un alias).
+  2. Ouvrez « icone/papy-la-grappe-512.png », faites Cmd + A puis Cmd + C.
+  3. Sélectionnez l'alias, faites Cmd + I, cliquez sur la petite icône
+     en haut à gauche, puis Cmd + V.
+  4. Renommez l'alias « Papy la Grappe ».
+
+
+METTRE À JOUR LE SITE
+
+  Quand vous recevez une nouvelle version, remplacez simplement
+  « index.html » dans ce dossier. Le raccourci n'a pas besoin d'être refait.
+
+
+L'abus d'alcool est dangereux pour la santé, à consommer avec modération.
